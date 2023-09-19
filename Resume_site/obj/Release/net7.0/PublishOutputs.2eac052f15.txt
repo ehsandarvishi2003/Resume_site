@@ -1,0 +1,7 @@
+E:\پروژه ها\Resume_site\Resume_site\obj\Release\net7.0\PubTmp\Out\Resume_site.exe
+E:\پروژه ها\Resume_site\Resume_site\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\پروژه ها\Resume_site\Resume_site\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\پروژه ها\Resume_site\Resume_site\obj\Release\net7.0\PubTmp\Out\Resume_site.dll
+E:\پروژه ها\Resume_site\Resume_site\obj\Release\net7.0\PubTmp\Out\Resume_site.deps.json
+E:\پروژه ها\Resume_site\Resume_site\obj\Release\net7.0\PubTmp\Out\Resume_site.runtimeconfig.json
+E:\پروژه ها\Resume_site\Resume_site\obj\Release\net7.0\PubTmp\Out\Resume_site.pdb
