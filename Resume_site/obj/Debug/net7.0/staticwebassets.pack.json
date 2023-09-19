@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Resume_site.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Resume_site.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\css\\aos.css",
+      "PackagePath": "staticwebassets\\SiteSample\\css\\aos.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\SiteSample\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\css\\main.css",
+      "PackagePath": "staticwebassets\\SiteSample\\css\\main.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\Profile.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\Profile.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\anthony.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\anthony.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\bg.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\bgplus.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\bgplus.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\graphic-design-1.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\graphic-design-1.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\graphic-design-2.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\graphic-design-2.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\graphic-design-3.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\graphic-design-3.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\graphic-design-4.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\graphic-design-4.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\photography-1.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\photography-1.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\photography-2.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\photography-2.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\photography-3.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\photography-3.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\photography-4.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\photography-4.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\project-1.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\project-1.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\project-2.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\project-2.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\project-3.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\project-3.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\project-4.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\project-4.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\reference-image-1.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\reference-image-1.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\reference-image-2.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\reference-image-2.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\reference-image-3.jpg",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\reference-image-3.jpg"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\staticmap.png",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\staticmap.png"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\images\\staticmap2.png",
+      "PackagePath": "staticwebassets\\SiteSample\\images\\staticmap2.png"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\js\\aos.js",
+      "PackagePath": "staticwebassets\\SiteSample\\js\\aos.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\SiteSample\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\SiteSample\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\SiteSample\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\js\\now-ui-kit.js",
+      "PackagePath": "staticwebassets\\SiteSample\\js\\now-ui-kit.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\js\\plugins\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\SiteSample\\js\\plugins\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\js\\plugins\\bootstrap-switch.js",
+      "PackagePath": "staticwebassets\\SiteSample\\js\\plugins\\bootstrap-switch.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\js\\plugins\\jquery.sharrre.js",
+      "PackagePath": "staticwebassets\\SiteSample\\js\\plugins\\jquery.sharrre.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\SiteSample\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\SiteSample\\scripts\\main.js",
+      "PackagePath": "staticwebassets\\SiteSample\\scripts\\main.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\پروژه ها\\Resume_site\\Resume_site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Resume_site.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Resume_site.props",
+      "PackagePath": "build\\Resume_site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Resume_site.props",
+      "PackagePath": "buildMultiTargeting\\Resume_site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Resume_site.props",
+      "PackagePath": "buildTransitive\\Resume_site.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
