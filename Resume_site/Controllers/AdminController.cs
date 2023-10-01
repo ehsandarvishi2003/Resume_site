@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 #endregion
 namespace Resume_site.Controllers
 {
-    public class AdminPanelController : Controller
+    public class AdminController : Controller
     {
         public IActionResult Index()
         {
